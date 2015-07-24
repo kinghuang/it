@@ -11,4 +11,4 @@ IT is commonly seen as a synonym for computers. To my parents, I work with compu
 
 Since that time, the accessibility of technology and the roles that people play with respect to technology have shifted significantly. While the capabilities of computing technology have grown considerably, it is the diminishing cost and pervasive availability of a wide range of technologies—especially beyond just *computers*—that has sharply changed the environment, bringing the value and role of IT into question.
 
-
+Over the next six essays, I will be exploring the roles that have evolved with technology, the significance of digital existence, exponential growth, and concluding with the issues and transformations that a research-intensive institution such as the University of Calgary must partake in to support the realities of the 21st century.
