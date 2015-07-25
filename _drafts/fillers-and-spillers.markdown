@@ -18,7 +18,9 @@ Collectively, humankind contributes to shared pools of technology, each with the
 
 **Fillers** contribute to a shared technological pool. They occupying their own bubble and become insular as the field builds its own vocabularies and cliques. For fillers, pushing the human race forward means to discover and invent.
 
-**Spillers** are enthusiastic about their field. Like the Greek Titan Prometheus who [gifted mankind with fire stolen from Mount Olympus](https://en.wikipedia.org/wiki/Prometheus), they seek to share the pool's bounty with the masses in the form of knowledge and artifacts. Spillers are catalysts connecting pools with rest of humankind. But, they are not the foundation.
+**Spillers** are enthusiastic about their field. Like the Greek Titan Prometheus who [gifted mankind with fire stolen from Mount Olympus](https://en.wikipedia.org/wiki/Prometheus), they seek to share the pool's bounty with the masses in the form of knowledge and artifacts. Spillers are catalysts connecting pools with the rest of humankind. But, they are not the foundation.
+
+Rentzsch proposes that Apple operates as both a filler and spiller, but primarily as a spiller. That position fits well with an oft raised trope that [*Apple never invents anything*](http://bgr.com/2012/09/11/apple-criticism-ipad-iphone-gassee/).” Given the enormity of Apple as a spiller and the fact that spillers are meant to be visible to and understood by the general population outside of a bubble, it is understandable that such a perception exists. As a spiller, being enthusiastic about its field and wanting to protect its integrity to its consumer audience against a potentially disruptive external force is logical. That it came at a cost to its developer audience in its much smaller filler role is a balance Apple has evidently achieved.
 
 
 
