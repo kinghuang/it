@@ -24,7 +24,7 @@ Rentzsch proposes that Apple operates as both a filler and spiller, but primaril
 
 ## Is IT a Filler or Spiller?
 
-The concept of fillers and spillers is very useful in examining the role of IT in higher education institutions. It can be difficult to recognize the existence of the two types, whether internally as part of the organizational structure or externally in the audiences that IT serves, leading to imbalances between the two, or even worse, a complete absence of one. 
+The concept of fillers and spillers is very useful in examining the role of IT in higher education institutions. It can be difficult to recognize the existence of the two roles, whether internally as part of the organizational structure or externally in the audiences that IT serves, leading to imbalances between the two, or even worse, a complete absence of one. This leads to challenges in fulfilling seemingly simple customer requests and in communicating the value of IT to leadership due to differences between the two types.
 
 
 
