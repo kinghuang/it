@@ -26,12 +26,16 @@ Rentzsch proposes that Apple operates as both a filler and spiller, but primaril
 
 The concept of fillers and spillers is very useful in examining the role of IT in a higher education institution. Who is the audience, or *are* the audiences, that IT services? What does it mean for IT to be a filler versus a spiller? Is the value of IT measured based on *potentials* or *actuals*?
 
-On the University of Calgary IT website, the following tagline appears under Information Technologies on the home page.
+On the University of Calgary IT website, the following tagline [appears under Information Technologies](http://www.ucalgary.ca/it/).
 
     Delivering technology solutions through effective, sustainable and responsible planning and design
 
-Along the same line, the following is the mission statement of IT.
+Similarly, this is the stated [IT mission](http://www.ucalgary.ca/it/about).
 
     We enable learning, leading research and supporting services for our university community by leveraging information technologies and protecting information assets. As a trusted leader, we deliver technology solutions through effective, sustainable and responsible planning and design. We focus on being service oriented, responsive, innovative and collaborative.
 
+Notice the emphasis on *delivering solutions* in both statements. Now, consider the structure of the IT organization, implemented in January 2015.
 
+(insert simplified org chart here)
+
+IT at the University of Calgary is structured as a spiller only. No part of the organization is designed to support a filler role, for both internal and external audiences.
