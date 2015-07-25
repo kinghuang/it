@@ -22,5 +22,16 @@ Collectively, humankind contributes to shared pools of technology, each with the
 
 Rentzsch proposes that Apple operates as both a filler and spiller, but primarily as a spiller. That position fits well with an oft raised trope that [*Apple never invents anything*](http://bgr.com/2012/09/11/apple-criticism-ipad-iphone-gassee/).” Given the enormity of Apple as a spiller and the fact that spillers are meant to be visible to and understood by the general population outside of a bubble, it is understandable that such a perception exists. As a spiller, being enthusiastic about its field and wanting to protect its integrity to its consumer audience against a potentially disruptive external force is logical. That it came at a cost to its developer audience in its much smaller filler role is a balance Apple has evidently achieved.
 
+## Is IT a Filler or Spiller?
+
+The concept of fillers and spillers is very useful in examining the role of IT in a higher education institution. Who is the audience, or *are* the audiences, that IT services? What does it mean for IT to be a filler versus a spiller? Is the value of IT measured based on *potentials* or *actuals*?
+
+On the University of Calgary IT website, the following tagline appears under Information Technologies on the home page.
+
+    Delivering technology solutions through effective, sustainable and responsible planning and design
+
+Along the same line, the following is the mission statement of IT.
+
+    We enable learning, leading research and supporting services for our university community by leveraging information technologies and protecting information assets. As a trusted leader, we deliver technology solutions through effective, sustainable and responsible planning and design. We focus on being service oriented, responsive, innovative and collaborative.
 
 
