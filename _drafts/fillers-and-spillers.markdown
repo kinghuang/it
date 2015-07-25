@@ -16,7 +16,9 @@ It is easy to view the situation as simply a ruthless entity (Apple) trampling o
 Rentzsch argues that technology has enriched humanity to the point where we can be ’nice’ to many strangers, not just to our immediate family or our tribe. Technology has unlocked vast amount of resources, leading to less resource contention and a more informed populace through greater education. 
 Collectively, humankind contributes to shared pools of technology, each with their own shared knowledge, tools, and networks of people. And, in these pools, are two types of people.
 
-Fillers contribute to a shared technological pool. They occupying their own bubble and become insular as the field builds its own vocabularies and cliques.
+**Fillers** contribute to a shared technological pool. They occupying their own bubble and become insular as the field builds its own vocabularies and cliques. For fillers, pushing the human race forward means to discover and invent.
 
-Spillers are enthusiastic about their field. Like the Greek Titan Prometheus who [gifted mankind with fire stolen from Mount Olympus](https://en.wikipedia.org/wiki/Prometheus), they seek to share the pool's bounty with the masses in the form of knowledge and artifacts.
+**Spillers** are enthusiastic about their field. Like the Greek Titan Prometheus who [gifted mankind with fire stolen from Mount Olympus](https://en.wikipedia.org/wiki/Prometheus), they seek to share the pool's bounty with the masses in the form of knowledge and artifacts. Spillers are catalysts connecting pools with rest of humankind. But, they are not the foundation.
+
+
 
