@@ -9,3 +9,14 @@ While seemingly benign for iPhone users, and perhaps logical in the interest of 
 
 Rentzsch argues that “[Section 3.3.1 makes developers wholly reliant on Apple for software engineering innovation.](http://rentzsch.tumblr.com/post/592949476/c4-release)” That, limiting the choices developers have stunts foundational progress, and the process of discovery and invention. However, as John Gruber discussses in [*Why Apple Changed Section 3.3.1*](http://daringfireball.net/2010/04/why_apple_changed_section_331), the change can be to the favour of iPhone users. Cross-platform toolkits such as Adobe Flash and MonoTouch “have never—ever—produced top-notch native apps for Apple platforms,” and, “such apps generally have been downright crummy.”
 
+## Human Progress
+
+It is easy to view the situation as simply a ruthless entity (Apple) trampling on the freedom of developers to thwart a competitor (Adobe) for its own profit. Fives years later, we can see Apple with a staggering 92% profit share of the smartphone industry while Adobe Flash has virtually no presence on the iOS platform. However, Rentzsch examines the problem from a much broader viewpoint: the intertwining relationship between human progress and technology.
+
+Rentzsch argues that technology has enriched humanity to the point where we can be ’nice’ to many strangers, not just to our immediate family or our tribe. Technology has unlocked vast amount of resources, leading to less resource contention and a more informed populace through greater education. 
+Collectively, humankind contributes to shared pools of technology, each with their own shared knowledge, tools, and networks of people. And, in these pools, are two types of people.
+
+Fillers contribute to a shared technological pool. They occupying their own bubble and become insular as the field builds its own vocabularies and cliques.
+
+Spillers are enthusiastic about their field. Like the Greek Titan Prometheus who [gifted mankind with fire stolen from Mount Olympus](https://en.wikipedia.org/wiki/Prometheus), they seek to share the pool's bounty with the masses in the form of knowledge and artifacts.
+
