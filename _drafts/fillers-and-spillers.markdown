@@ -24,7 +24,9 @@ Rentzsch proposes that Apple operates as both a filler and spiller, but primaril
 
 ## Is IT a Filler or Spiller?
 
-The concept of fillers and spillers is very useful in examining the role of IT in a higher education institution. Who is the audience, or *are* the audiences, that IT services? What does it mean for IT to be a filler versus a spiller? Is the value of IT measured based on *potentials* or *actuals*?
+The concept of fillers and spillers is very useful in examining the role of IT in higher education institutions. It can be difficult to recognize the existence of the two types, whether internally as part of the organizational structure or externally in the audiences that IT serves, leading to imbalances between the two, or even worse, a complete absence of one. 
+
+
 
 On the University of Calgary IT website, the following tagline [appears under Information Technologies](http://www.ucalgary.ca/it/).
 
