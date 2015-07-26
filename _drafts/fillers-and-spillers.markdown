@@ -37,6 +37,12 @@ The emphasis on business-IT alignment with its implicit transition to spiller IT
 
 In transforming IT into a business friendly unit that is focused on delivering business *solutions*, the capability of IT to develop the fundamental structures that support the creation of solutions can easily be overlooked. That is, when IT operates as a single entity, it can very easily fall into a situation where fillers and spillers are set as diametric forces or with one in a subordinate position to the other. The needs of fillers are seen as IT wants, which become subservient to the needs of spillers that serve business wants.
 
+A very drastic form of this can seen in Digg v4. Digg is a technology news aggregation site created in late 2004 by Kevin Rose. It let users discover, share, and recommend web content through user submissions and votes. By 2008, it was valued at over US$200 million with over 236 million visitors annually. Digg's most visible content is supplied by a relatively small proportion of its users, influence by their stature in the community through historical votes. These popular content submitters were the fillers. Digg itself is then a massive spiller for its hundreds of million of visitors.
+
+In August 2010, Digg v4 (version 4) was released. The most significant change was to allow news sources to auto-submit their content to Digg, sidelining the the existing fillers in the process. It is suspected that Digg was [pressured to make this change](http://alexisohanian.com/an-open-letter-to-kevin-rose) [to appease investors](http://searchengineland.com/digg-v4-how-to-successfully-kill-a-community-50450) funding the site. The result of the move was dramatic. A mass user exodus ensued, with [traffic dropping by approximately 25%](http://thenextweb.com/socialmedia/2010/09/23/diggs-traffic-is-collapsing-at-home-and-abroad/) within a month. Less than two years later, Digg was broken into three parts and sold at a valuation of less than 1/10 of its valuation 2 years prior.
+
+Digg is a striking example of the effects of ignoring or purposefully terminating fillers. Without its spillers, Digg very quickly exhausted content—timely news relevant to its users—to spill. Conversely, its existing fillers no longer had a spiller that connected them to an audience, diminishing their value. The end result for Digg was almost instantaneous, wiping out nearly all the business value it had built up.
+
 
 
 On the University of Calgary IT website, the following tagline [appears under Information Technologies](http://www.ucalgary.ca/it/).
