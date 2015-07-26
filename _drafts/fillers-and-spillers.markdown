@@ -19,7 +19,15 @@ Fillers and spillers have an interdependent relationship. By themselves, fillers
 
 ## IT as Fillers and Spillers
 
-The popular culture view of IT is often aligned with fillers. Television shows such as [The IT Crowd](http://www.channel4.com/entertainment/tv/microsites/I/itcrowd) poke fun at the stereotypical IT person as someone who spouts undecipherable technical jargon, interacts poorly with outside people, and is best relegated to the basement where they can be content tinkering with a rack of servers. This also extends to IT departments, which may seem unconcerned with ‘real-world’ problems and unresponsive to business needs.
+The popular culture view of IT is that of an insular, technology-centric group. Television shows such as [The IT Crowd](http://www.channel4.com/entertainment/tv/microsites/I/itcrowd) poke fun at the stereotypical IT person as someone who spouts undecipherable technical jargon, interacts poorly with outside people, and is best relegated to the basement where they can be content tinkering with a rack of servers. This extends to entire IT departments that seem out of touch with ‘real-world’ problems and unresponsive to business needs.
+
+In *[Business/IT Alignment a Critical Factor When Determining IT's Role](http://www.gartner.com/document/code/129316)* (2005), Gartner analyst Michael Gerrard writes about the need to find “a well-understood role that results in the enterprise maximizing the effective use and value of IT.” The issue of business-IT alignment plagues many organizations, especially given the ever increasing role of computing technology in all aspects of business. Organizations push to transform an insular, technology-centric IT into a welcoming, business-centric unit aligned with business strategies, value chains, and governance. 
+
+Fundamentally, the drive for business-IT alignment can be framed as a shift from IT as a filler to IT as a spiller. By their very nature, spillers are enthusiastic connectors with the general audience. They are the catalyst that makes the pool's bounty accessible to everyone. IT as a spiller is concerned with taking technical tools and transforming them into business tools; tools aligned with business strategies, and whose business values can be measured.
+
+A spiller IT is friendly, comprehensible, and perhaps even exciting. An example of this can be seen when Office 365 was announced for students at the University of Calgary via Twitter.
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/UCalgary_IT">@UCalgary_IT</a> Very happy with this!</p>&mdash; Michael Tom (@michaelrtom) <a href="https://twitter.com/michaelrtom/status/490292005553963008">July 19, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Is IT a Filler or a Spiller?
 
