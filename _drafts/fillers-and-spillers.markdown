@@ -17,11 +17,13 @@ Consider *science* as a pool. We might say that published papers are shared know
 
 Fillers and spillers have an interdependent relationship. By themselves, fillers are simply geeks in a room chipping away at their technology, forever wanting to learn more and build more. On the other hand, spillers by theselves would stagnate from a lack of progress, and become trapped recycling the past.
 
-## Is IT a Filler or Spiller?
+## IT as Fillers and Spillers
+
+The popular culture view of IT is often aligned with fillers. Television shows such as [The IT Crowd](http://www.channel4.com/entertainment/tv/microsites/I/itcrowd) poke fun at the stereotypical IT person as someone who spouts undecipherable technical jargon, interacts poorly with outside people, and is best relegated to the basement where they can be content tinkering with a rack of servers. This also extends to IT departments, which may seem unconcerned with ‘real-world’ problems and unresponsive to business needs.
+
+## Is IT a Filler or a Spiller?
 
 The concept of fillers and spillers is very useful in examining the role of IT in higher education institutions. It can be difficult to recognize the existence of the two roles, whether internally as part of the organizational structure or externally in the audiences that IT serves, leading to imbalances between the two, or even worse, a complete absence of one. This leads to challenges in fulfilling seemingly simple customer requests and in communicating the value of IT to leadership due to differences between the two types.
-
-
 
 On the University of Calgary IT website, the following tagline [appears under Information Technologies](http://www.ucalgary.ca/it/).
 
