@@ -45,9 +45,13 @@ In transforming IT into a business friendly unit that is focused on delivering b
 
 By focusing on spiller IT to the detriment of filler IT, technical debt increases and IT encounters a growing inability to meet the demands of its role as a spiller. The exponentially growing rate of technology change combined with a lack of investment and support of fillers leads to a stagnant set of IT capabilities through a lack of development, or worse, awareness. This leads to a growing reliance on outsourcing of technology and business functions, as IT becomes ineffective through a lack of capability (potentially masked as a lack of resources) and competitiveness compared to others.
 
-IT fillers are responsible for developing the technical capabilities that are used by IT spillers to meet business goals at the desired values. Here, the fallacy of considering fillers as *IT wants* emerges. The IT wants are in actuality an organization's own capabilities in technology. The *potential* values of capabilities versus the *actual* values of solutions are difficult to compare. Also, the value that an organization places on raw capabilities versus actualized solutions depends on the organization's business objectives.
+IT fillers are responsible for developing the technical capabilities that are used by IT spillers to meet business goals producing business value. Here, the fallacy of considering fillers as *IT wants* emerges. The IT wants are in actuality an organization's own capabilities in technology. In business-IT alignment where the role of fillers is neglected, as IT becomes more aligned with the business its capability to deliver solutions diminishes.
 
+IT must understand the relationship between fillers and spillers, and the balance of each that is needed to support the an organization's business objectives.
 
+## Scratch
+
+The *potential* values of capabilities versus the *actual* values of solutions are difficult to compare. Also, the value that an organization places on raw capabilities versus actualized solutions depends on the organization's business objectives.
 
 On the University of Calgary IT website, the following tagline [appears under Information Technologies](http://www.ucalgary.ca/it/).
 
