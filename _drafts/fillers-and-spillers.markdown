@@ -59,10 +59,15 @@ Information Technologies at the university is a traditional IT department that i
 
 (insert word cloud here)
 
-The mission states that IT delivers “technology solutions”, and the word cloud demonstrates what the department itself deems to be solutions.
+The mission states that IT delivers “technology solutions”, and the word cloud demonstrates what the department deems to be solutions.
 
 Now, examine the structure of the IT organization.
 
 (insert simplified org chart here)
 
-IT at the University of Calgary is structured as a spiller only. No part of the organization is designed to support a filler role, for both internal and external audiences.
+IT at the University of Calgary is structured as a spiller only. No part of the organization is designed to support a filler role, for both internal and external audiences. The consequences of this have been growing.
+
+## Creators versus Consumers
+
+## Summary
+
