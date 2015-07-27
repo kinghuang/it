@@ -33,7 +33,7 @@ A spiller IT is friendly, comprehensible, and perhaps even exciting. Examples  c
 
 ## Transitioning from Filler to Spiller
 
-The emphasis on business-IT alignment with its implicit transition to spiller IT can have an insidious side-effect in higher education, especially a [research-intensive institution like the University of Calgary](https://web.archive.org/web/20150422214843/http://www.ucalgary.ca/research/research-excellence). Exponentially advancing digital technologies, enhanced flows of capital, information, and talent, and global-scale competition, are factors that magnify the deleterious effects of failing to recognize the differences between fillers and spillers, which is further exacerbated by the presence of IT as a single, monolithic unit.
+The emphasis on business-IT alignment with its implicit transition to spiller IT can have insidious side-effects. Exponentially advancing digital technologies, enhanced flows of capital, information, and talent, and global-scale competition, are factors that magnify the deleterious effects of failing to recognize the differences between fillers and spillers, which is further exacerbated by the presence of IT as a single, monolithic unit.
 
 In transforming IT into a business friendly unit that is focused on delivering business *solutions*, the capability of IT to develop the fundamental structures that support the creation of solutions can easily be overlooked. That is, when IT operates as a single entity, it can very easily fall into a situation where fillers and spillers are set as diametric forces or with one in a subordinate position to the other. The needs of fillers are seen as IT wants, which become subservient to the needs of spillers that serve business wants.
 
