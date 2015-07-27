@@ -49,19 +49,19 @@ IT fillers are responsible for developing the technical capabilities that are us
 
 IT must understand the relationship between fillers and spillers, and the balance of each that is needed to support the an organization's business objectives.
 
-## Scratch
+## Fillers and Spillers in Higher Education
 
-The *potential* values of capabilities versus the *actual* values of solutions are difficult to compare. Also, the value that an organization places on raw capabilities versus actualized solutions depends on the organization's business objectives.
+Higher education institutions that focus on transforming IT with a sharp focus on business alignment are unintentionally hampering themselves. In a research-intensive institution like The University of Calgary, there are generally two major business entities—academia and research—each performing both administrative and operative functions. 
 
-On the University of Calgary IT website, the following tagline [appears under Information Technologies](http://www.ucalgary.ca/it/).
-
-    Delivering technology solutions through effective, sustainable and responsible planning and design
-
-Similarly, this is the stated [IT mission](http://www.ucalgary.ca/it/about).
+Information Technologies at the university is a traditional IT department that in recent years has focused heavily on fostering business partnerships, service management, portfolio management, and operational stability. Consider the department's [mission statement](http://www.ucalgary.ca/it/about) and a word cloud of accomplishments created for a department town-hall meeting in 2014.
 
     We enable learning, leading research and supporting services for our university community by leveraging information technologies and protecting information assets. As a trusted leader, we deliver technology solutions through effective, sustainable and responsible planning and design. We focus on being service oriented, responsive, innovative and collaborative.
 
-Notice the emphasis on *delivering solutions* in both statements. Now, consider the structure of the IT organization, implemented in January 2015.
+(insert word cloud here)
+
+The mission states that IT delivers “technology solutions”, and the word cloud demonstrates what the department itself deems to be solutions.
+
+Now, examine the structure of the IT organization.
 
 (insert simplified org chart here)
 
