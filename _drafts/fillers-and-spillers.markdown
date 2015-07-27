@@ -47,8 +47,13 @@ By focusing on spiller IT to the detriment of filler IT, technical debt increase
 
 IT fillers are responsible for developing the technical capabilities that are used by IT spillers to meet business goals that produce business value. The fallacy of considering fillers as *IT wants* is that the they are in actuality the organization's capabilities in technology. Lack of planning and management of IT fillers diminishes the business' ability to obtain the solutions they seek.
 
+## Where do Fillers and Spillers Belong in Higher Education IT?
 
-## Creators versus Consumers
+A significant drawback of the monolithic IT department is that even with awareness of filler and spiller roles, it can be difficult to achieve a clear separation of responsibilities and develop a healthy relationship between the two. This issue is often compounded in education when groups outside of the IT organization emerge with an interest in playing one or both of these roles within their own domains, resulting in one form of “[shadow IT](http://www.gartner.com/document/1777925)”. Role clarity is a crucial element in managing the IT function in higher education.
+
+At the heart of the matter are the audiences that fillers and spillers serve in a higher education institution. It matters very little *who* the audiences are. The distinction between researchers, academics, and students is irrelevant. Instead, the difference between creators and consumers is key. Fillers predominantly serve creators, who are or want to be fillers or spillers themselves. On the other hand, spillers serve consumers, who are not versed in the field and benefit from consuming outputs.
+
+One way to approach this problem is to consider the audiences that fillers and spillers serve. 
 
 ## Summary
 
