@@ -21,4 +21,20 @@ The CIO challenge at the University of Calgary resemble issues with CIOs in the 
 
 One of the costs of leadership turnover can be seen in the latest internal audit results of Information Technologies, which has garnered the attention of the Board of Governors with remediations placed as the highest priorities for the department, above all other requests. The four remediation program streams—security, data centre, disaster recovery, and governance—cut across the core of IT, hinting at the significant deficiencies accumulated over the past decade.
 
-## 
+## Fillers and Spillers in Higher Education
+
+Higher education institutions that focus on transforming IT with a sharp focus on business alignment are unintentionally hampering themselves. In a research-intensive institution like The University of Calgary, there are generally two major business entities—academia and research—each performing both administrative and operative functions. 
+
+Information Technologies at the university is a traditional IT department that in recent years has focused heavily on fostering business partnerships, service management, portfolio management, and operational stability. Consider the department's [mission statement](http://www.ucalgary.ca/it/about) and a word cloud of accomplishments created for a department town-hall meeting in 2014.
+
+    We enable learning, leading research and supporting services for our university community by leveraging information technologies and protecting information assets. As a trusted leader, we deliver technology solutions through effective, sustainable and responsible planning and design. We focus on being service oriented, responsive, innovative and collaborative.
+
+(insert word cloud here)
+
+The mission states that IT delivers “technology solutions”, and the word cloud demonstrates what the department deems to be solutions.
+
+Now, examine the structure of the IT organization.
+
+(insert simplified org chart here)
+
+IT at the University of Calgary is structured as a spiller only. No part of the organization is designed to support a filler role, for both internal and external audiences. The consequences of this have been growing.
